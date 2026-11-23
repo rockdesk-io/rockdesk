@@ -68,7 +68,7 @@ English: [README.md](README.md) · 官网：<https://rockdesk.cn>（海外：<ht
 
 ## 许可
 
-RockDesk 是专有软件，按 [RockDesk 用户条款](https://rockdesk.cn/terms.html) 使用。这个仓库放的是 RockDesk 的发布安装包和说明。RockDesk 用到的第三方组件列在 App 的「设置 → 开源许可」里，macOS 安装镜像里也有一份 `THIRD-PARTY-NOTICES.txt`。
+RockDesk 是专有软件，按 [RockDesk 用户条款](https://rockdesk.cn/terms.html) 使用。这个仓库放的是 RockDesk 的发布安装包和说明。RockDesk 用到的第三方组件和各自的许可证列在 <https://rockdesk.cn/open-source.html>。
 
 ## 联系
 

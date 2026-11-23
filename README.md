@@ -68,7 +68,7 @@ Each new device starts with a free trial. Plans: <https://rockdesk.io/pricing.ht
 
 ## License
 
-RockDesk is proprietary software, used under the [RockDesk Terms](https://rockdesk.io/terms.html). This repository holds RockDesk's release packages and documentation. The third-party components RockDesk uses are listed in the app (Settings → Open-source licenses) and in `THIRD-PARTY-NOTICES.txt` inside the macOS disk image.
+RockDesk is proprietary software, used under the [RockDesk Terms](https://rockdesk.io/terms.html). This repository holds RockDesk's release packages and documentation. The third-party components RockDesk uses and their licenses are listed at <https://rockdesk.io/open-source.html>.
 
 ## Contact
 
